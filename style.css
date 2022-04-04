@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+body{
+    text-align: center;
+    background-image: url("https://wallpapercave.com/dwp1x/wp2742875.jpg");
+    background-size: cover;
+    font-family:lobster,cursive;
+}
+span{
+    color: blueviolet;
+    font-size: x-large;
+}
+.About-text{
+    width: 400px;
+    margin: auto;
+}
+header{
+    background-color: black;
+    margin-top: -23px;
+    height: 200px;
+}
+.navbar-h1{
+    color: blueviolet;
+    margin-right: 980px;
+    padding-top: 30px;
+}
+a:hover{
+    color: red;
+}
+a{
+    font-size: x-large;
+    text-decoration: none;
+    color: blueviolet;
+    margin: 100px;
+      
+}
+p{
+    font-weight: bolder;
+    color: blueviolet;
+}
+.con-1{
+    width: 500px;
+    margin-left: 150px;
+    border: black solid 4px;
+}
+.Nebula-Space-img{
+    width: 200px;
+}
+.person-on-computer-animated{
+    width: 200px;
+}
+.con-2{
+    width: 500px;
+    border: black solid 4px;
+    margin-left: 750px;
+}
+h1{
+    color: blueviolet;
+}
